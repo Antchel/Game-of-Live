@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anton/gitprj/GameOfLive/functions.cpp
+iostream
+-
+ctime
+-
+lib.h
+/home/anton/gitprj/GameOfLive/lib.h
+
+/home/anton/gitprj/GameOfLive/lib.h
+cstdint
+-
+
+/home/anton/gitprj/GameOfLive/main.cpp
+iostream
+-
+thread
+-
+chrono
+-
+lib.h
+/home/anton/gitprj/GameOfLive/lib.h
+

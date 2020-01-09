@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GameOfLive.dir/main.cpp.o CMakeFiles/GameOfLive.dir/functions.cpp.o  -o GameOfLive 
